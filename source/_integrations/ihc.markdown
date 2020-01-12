@@ -12,7 +12,7 @@ ha_release: 0.62
 ha_iot_class: Local Push
 ---
 
-IHC Controller integration for Home Assistant allows you to connect the LK IHC controller to Home Assistant. The controller is sold under other names in different countries - "ELKO Living system" in Sweden and Norway.
+IHC Controller integration for Home Assistant allows you to connect the LK IHC controller to Home Assistant. The controller is sold under other names in different countries - "ELKO Living system" in Sweden and Norway. Formerly "Gardy Freedom" in Belgium.
 
 There is currently support for the following device types within Home Assistant:
 
